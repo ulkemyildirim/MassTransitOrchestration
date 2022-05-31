@@ -1,0 +1,12 @@
+C:\Users\umityildirim\source\repos\DemandOrchestrationManagement\Shared\bin\Debug\net5.0\Shared.deps.json
+C:\Users\umityildirim\source\repos\DemandOrchestrationManagement\Shared\bin\Debug\net5.0\Shared.dll
+C:\Users\umityildirim\source\repos\DemandOrchestrationManagement\Shared\bin\Debug\net5.0\ref\Shared.dll
+C:\Users\umityildirim\source\repos\DemandOrchestrationManagement\Shared\bin\Debug\net5.0\Shared.pdb
+C:\Users\umityildirim\source\repos\DemandOrchestrationManagement\Shared\obj\Debug\net5.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umityildirim\source\repos\DemandOrchestrationManagement\Shared\obj\Debug\net5.0\Shared.AssemblyInfoInputs.cache
+C:\Users\umityildirim\source\repos\DemandOrchestrationManagement\Shared\obj\Debug\net5.0\Shared.AssemblyInfo.cs
+C:\Users\umityildirim\source\repos\DemandOrchestrationManagement\Shared\obj\Debug\net5.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\umityildirim\source\repos\DemandOrchestrationManagement\Shared\obj\Debug\net5.0\Shared.dll
+C:\Users\umityildirim\source\repos\DemandOrchestrationManagement\Shared\obj\Debug\net5.0\ref\Shared.dll
+C:\Users\umityildirim\source\repos\DemandOrchestrationManagement\Shared\obj\Debug\net5.0\Shared.pdb
+C:\Users\umityildirim\source\repos\DemandOrchestrationManagement\Shared\obj\Debug\net5.0\Shared.csprojAssemblyReference.cache
